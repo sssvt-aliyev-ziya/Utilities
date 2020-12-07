@@ -51,6 +51,8 @@
     <Compile Include="MethodExtraction\Exercise\FileService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vysvedceni\StudentReportCard.cs" />
+    <Compile Include="Vysvedceni\StudentsData.cs" />
     <Compile Include="Window.cs" />
   </ItemGroup>
   <ItemGroup>

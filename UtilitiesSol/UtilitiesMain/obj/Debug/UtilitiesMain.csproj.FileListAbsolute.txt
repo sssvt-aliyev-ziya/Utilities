@@ -5,3 +5,10 @@ Y:\Foltyn\OdStudentu\P3B_gr1\ProZapis\Aliyev\Utilities\20201012_hodina\Utilities
 Y:\Foltyn\OdStudentu\P3B_gr1\ProZapis\Aliyev\Utilities\20201012_hodina\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.csproj.CoreCompileInputs.cache
 Y:\Foltyn\OdStudentu\P3B_gr1\ProZapis\Aliyev\Utilities\20201012_hodina\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.exe
 Y:\Foltyn\OdStudentu\P3B_gr1\ProZapis\Aliyev\Utilities\20201012_hodina\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.pdb
+C:\Users\ziyaa\Desktop\School\ZPR\Aliyev\GIT_GitHub_ziyaaliyev\Utilities\UtilitiesSol\UtilitiesMain\bin\Debug\UtilitiesMain.exe.config
+C:\Users\ziyaa\Desktop\School\ZPR\Aliyev\GIT_GitHub_ziyaaliyev\Utilities\UtilitiesSol\UtilitiesMain\bin\Debug\UtilitiesMain.exe
+C:\Users\ziyaa\Desktop\School\ZPR\Aliyev\GIT_GitHub_ziyaaliyev\Utilities\UtilitiesSol\UtilitiesMain\bin\Debug\UtilitiesMain.pdb
+C:\Users\ziyaa\Desktop\School\ZPR\Aliyev\GIT_GitHub_ziyaaliyev\Utilities\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.csprojAssemblyReference.cache
+C:\Users\ziyaa\Desktop\School\ZPR\Aliyev\GIT_GitHub_ziyaaliyev\Utilities\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.csproj.CoreCompileInputs.cache
+C:\Users\ziyaa\Desktop\School\ZPR\Aliyev\GIT_GitHub_ziyaaliyev\Utilities\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.exe
+C:\Users\ziyaa\Desktop\School\ZPR\Aliyev\GIT_GitHub_ziyaaliyev\Utilities\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.pdb
